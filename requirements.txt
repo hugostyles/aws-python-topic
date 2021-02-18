@@ -1,2 +1,5 @@
 -e .
 pytest
+aws-cdk.core
+aws-cdk.aws-ec2
+aws-cdk.aws-rds
